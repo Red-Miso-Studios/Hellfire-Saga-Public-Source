@@ -45,8 +45,8 @@ Vectors:
 		dc.l ErrorTrap, ErrorTrap, ErrorTrap, ErrorTrap			; 60
 Header:		dc.b "SEGA GENESIS    "
 Copyright:	dc.b "(C)SEGA XXXX.XXX"                       ;
-Domestic_Name:	dc.b "HELLFIRE SAGA V2.1                              "
-Overseas_Name:	dc.b "HELLFIRE SAGA V2.1                              "
+Domestic_Name:	dc.b "HELLFIRE SAGA V2.11                             "
+Overseas_Name:	dc.b "HELLFIRE SAGA V2.11                             "
 Serial_Number:	dc.b "GM MK-0000 -00"
 Checksum:	dc.w 0
 Input:		dc.b "J               "

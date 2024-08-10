@@ -122,7 +122,7 @@ Off_MusicAuthor_Text: offsetTable
 
 .n11:		; Miniboss Theme
 		dc.b $FE									; calc pos
-		namemstr "HS original - by Yamahearted"
+		namemstr "HS original - by iwontbeforgotten"
 		dc.b $80, $FE							; next line, calc pos
 		namemstr "                              "
 		dc.b $80, $FE							; next line, calc pos

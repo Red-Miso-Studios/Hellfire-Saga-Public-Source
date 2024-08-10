@@ -866,8 +866,8 @@ CRE_TextList:	dc.l	.Staff
 	.Music:
 		dc.b	"              ^MUSIC^",$81
 		dc.b	"    %FoxConED%",$80
-		dc.b	"    GENATAR_i        Yamahearted",$80
-		dc.b	"    Gerry Trevino    N-BAH",$80
+		dc.b	"    GENATAR_i      iwontbeforgotten",$80
+		dc.b	"    Gerry Trevino  N-BAH",$80
 		dc.b 	"    pixelcat",$FF
 
 	.LevelDesign:
